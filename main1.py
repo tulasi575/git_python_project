@@ -9,5 +9,5 @@ n=int(input())
 if(perfect_square(n)==True):
 	print("given num is a perfect square")
 else:
-	print("not a perfect square")
+	print("given num is not a perfect square")
 	
